@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wyatt8148
 - 🌱 I’m currently learning about developing on the Salesforce platform.
-- This Repository includes a few small projects from my first semester of C++ programming
+- These Repositories are to show my progression as a programmer from early college up to my first job and beyond.
 - 📫 How to reach me wdabella1488@gmail.com
 
 <!---
